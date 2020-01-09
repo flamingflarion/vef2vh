@@ -1,10 +1,10 @@
 # Git spurningar og svör
 
 1. Hvað gera eftirfarandi Linux skipanir?
-    cd - s
-    ls -
-    pwd -
-    mkdir -
+    cd - skiptir um Vinnuskrá
+    ls - skoðar files sem eru í directory sem þú ert staddur í og eru notuð til að keyra margar skipanir
+    pwd - Sýnir Vinnuskrá
+    mkdir - Býr til Skrá
 2. Hvað gera eftirfarandi Git skipanir?
     git clone
     git status
