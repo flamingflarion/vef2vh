@@ -1,7 +1,7 @@
 # Git spurningar og svör
 
 1. Hvað gera eftirfarandi Linux skipanir?
-    cd -
+    cd - s
     ls -
     pwd -
     mkdir -
