@@ -20,9 +20,10 @@
     * git branch
         * sýnir hvaða grein þú ert á
 4. Hvað er útgáfustýring (Version Control)?
-
+* Þú getur notað version control til að fara í fyrri útgáfur
 5. Hverjir eru helstu kostir við að nota GIT?
-
+* það er léttari að nota með öðrum
 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
-
+* alltaf þegar þú ert búin að gera breytingu
 7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
+* WD geymir breytingar en SA geymir ekki fyrri breytingar(sem sparar minni)
